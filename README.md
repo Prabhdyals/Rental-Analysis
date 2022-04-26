@@ -1,6 +1,7 @@
 # Housing Analysis
 
-![Toronto at night](Images/toronto.jpg)
+![Dashboard1](newplot.png)
+![Dashboard1](House_prices.png)
 
 *[Photo by James Wheeler](https://www.pexels.com/@souvenirpixels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/photo-license/)*
 
